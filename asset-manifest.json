@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/static/css/main.8b7837f5.css",
-    "main.js": "/static/js/main.9f7a9ed8.js",
-    "static/js/787.c4e7f8f9.chunk.js": "/static/js/787.c4e7f8f9.chunk.js",
-    "static/media/download.png": "/static/media/download.7a98408b4ed6ea11bd06.png",
-    "static/media/logo.svg": "/static/media/logo.a302dc07a7fb1f5992ec1f366e9ec578.svg",
-    "index.html": "/index.html",
-    "main.8b7837f5.css.map": "/static/css/main.8b7837f5.css.map",
-    "main.9f7a9ed8.js.map": "/static/js/main.9f7a9ed8.js.map",
-    "787.c4e7f8f9.chunk.js.map": "/static/js/787.c4e7f8f9.chunk.js.map"
+    "main.css": "/Dall-E-clone-frontend/static/css/main.8b7837f5.css",
+    "main.js": "/Dall-E-clone-frontend/static/js/main.6f399bc5.js",
+    "static/js/787.c4e7f8f9.chunk.js": "/Dall-E-clone-frontend/static/js/787.c4e7f8f9.chunk.js",
+    "static/media/download.png": "/Dall-E-clone-frontend/static/media/download.7a98408b4ed6ea11bd06.png",
+    "static/media/logo.svg": "/Dall-E-clone-frontend/static/media/logo.a302dc07a7fb1f5992ec1f366e9ec578.svg",
+    "index.html": "/Dall-E-clone-frontend/index.html",
+    "main.8b7837f5.css.map": "/Dall-E-clone-frontend/static/css/main.8b7837f5.css.map",
+    "main.6f399bc5.js.map": "/Dall-E-clone-frontend/static/js/main.6f399bc5.js.map",
+    "787.c4e7f8f9.chunk.js.map": "/Dall-E-clone-frontend/static/js/787.c4e7f8f9.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.8b7837f5.css",
-    "static/js/main.9f7a9ed8.js"
+    "static/js/main.6f399bc5.js"
   ]
 }
